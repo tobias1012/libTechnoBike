@@ -11,7 +11,7 @@ file(GLOB_RECURSE src_code
 )
 
 #find SFML
-find_package(SFML REQUIRED COMPONENTS network)
+find_package(SFML REQUIRED COMPONENTS network system)
 
 
 #We're making a library, therefore a library will be added
