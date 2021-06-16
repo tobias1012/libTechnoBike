@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.11)
 
-# Defome tje project
+# Define the project
 project(LibTechnoBike VERSION 0.1
                       DESCRIPTION "API for TechnoGym GROUP CONNECT Bikes"
                       LANGUAGES CXX)
